@@ -23,11 +23,11 @@ classifying and QA Agent. As a data source we use email.
 ## 🎯 Mission
 
 We build open-source tools and systems that promote:
-- **Good Governance** - Technology that holds power accountable
+- **Good Governance** - Technology that holds AI accountable
 - **Transparency** - Open systems that citizens can understand and verify
 - **Civic Empowerment** - Tools that give people agency over their data and decisions
 
-By asking "Who will guard the guardians?", we create technology that empowers citizens to hold power accountable.
+By asking "Who will guard the guardians?", we create technology that empowers citizens to hold AI accountable.
 
 ---
 
