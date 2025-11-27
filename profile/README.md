@@ -2,14 +2,17 @@
 
 > *Quis custodiet ipsos custodes?*
 
-Building open-source technology for transparency, accountability, and civic empowerment.
+We explore topics around AI open-source technology for transparency, accountability, governance and civic empowerment. 
 
 ---
 
 ## 🚀 Featured Projects
 
 ### [AI Email Categorization](https://github.com/whowillguardtheguardians/ai-email-categorization)
-Multi-agent AI system for intelligent email classification using AWS Bedrock and RAG. Features self-learning capabilities and privacy-first design.
+Multi-agent AI system for intelligent email classification using AWS Bedrock and RAG. Features self-learning capabilities and privacy-first design. 
+This project showcases that the performance of a multi agent architecture yields better accuracy results than using a single agent. We propose a three aget system with a
+primary classifying agent, a quality assurance agent that evaluates the work of the classification agent and then a judge agent to make the final decision when there is a disagreement between the 
+classifying and QA Agent. As a data source we use email. 
 
 **Tech Stack:** Python, AWS Bedrock, Machine Learning, Multi-Agent Systems
 
